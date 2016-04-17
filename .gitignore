@@ -1,0 +1,7 @@
+data_bags/users/*.json
+cookbooks/**/*
+.ruby-version
+.ruby-gemset
+.vagrant
+berks-cookbooks/
+nodes/*.json
